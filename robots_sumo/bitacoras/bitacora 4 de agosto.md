@@ -2,40 +2,43 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo: Los deboradores 
+## Nombre del Robot: ATOM
+## Capitán: Marcos Pastrovicchio
+## Subcapitán: Lampi Domenico
 ## Integrantes:
--
--
--
+-Gabriela Ordoñez 
+-Maria Milena
+-Jeremias Lopez 
+-Ramiro Orciani
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 4 de agosto del 2026
 ### Integrantes presentes:
--
--
--
-
+-Gabriela Ordoñez
+-Milena Maria
+-Marcos Pastrovicchio
+-Lampi Domenico
+-Ramiro Orciani
+-Jeremias Lopez
 ### Objetivos de la jornada:
--
--
--
+-Armar el robot
+-intentan programar el codigo
+-armar circuito de raspberry
 
 ### Actividades realizadas:
--
--
+-Armar el robot 
+-Armar el codigo
 -
 
 ### Problemas encontrados:
--
--
--
+-Se pusieron los componentes en la estructura al reves 
+-Problemas con el programa y la raspberry
+-Problemas de organizacion
 
 ### Soluciones implementadas o propuestas:
--
--
+-Dividir los integrantes en las diferentes tareas 
+-se cambio la orientacion de la estructura y se volvio a armar 
 -
 
 ### Pruebas realizadas:
@@ -51,27 +54,28 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 ### Tareas pendientes:
--
--
+-Hacer funcionar motores 
+-probar el codigo
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: Maria Milena 
 
-Tarea realizada:
+Tarea realizada:Armar el robot y aportes en la bitacora
 
-Integrante: ____________________________
+Integrante: Domenico Lampi 
 
-Tarea realizada:
+Tarea realizada: Ayudar con el robot y realizar la bitacora 
 
-Integrante: ____________________________
+Integrante: Ordoñez Gabriela 
 
-Tarea realizada:
+Tarea realizada:Programar el codigo de la raspberry y la conexion del circuito
 
-Integrante: ____________________________
+Integrante:Lopez Jeremias 
 
-Tarea realizada:
+Tarea realizada:conectar el circuto de raspberry con Ordoñez
 
-Integrante: ____________________________
+Integrante: Marcos pastrovicchio
 
-Tarea realizada:
+Tarea realizada: Organizacion del equipo 
+Ramiro orciani: Anotacion de partes 

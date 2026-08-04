@@ -1,1 +1,17 @@
-archivo de prueba
+lista de componentes:
+- 1 chasis ZK-2WD
+- ⁠2 ruedas con llanta de plastico
+- 1 rueda pivotante
+- 2 motores dc reductores de doble eje de 3v 6v
+- 1 portador de 4 pilas
+- 1 boton (encendido/apagado)
+- 1 modulo controlador de motores L298N (doble h)
+- 1 servomotor sg90
+- 6 tornillos m3*30 
+- ⁠6 tornillos m3*8
+- 8 tuercas m3
+- ⁠4 espaciadores L12
+- ⁠4 elementos de fijación
+- ⁠2 discos de codificación de velocidad
+- ⁠placa Raspberry Pi Pico W
+- ⁠1 protoboard

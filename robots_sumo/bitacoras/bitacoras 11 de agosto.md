@@ -53,7 +53,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 
-
+![esrdytfuygiuhi](Untitled.jpeg)
 
 
 ### Tareas pendientes:

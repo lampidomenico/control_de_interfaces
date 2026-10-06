@@ -1,0 +1,78 @@
+NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo correspondiente
+
+# BITÁCORA DE PROYECTO – ROBOT SUMO
+
+## Equipo: ___Los Deboradores______________
+## Nombre del Robot: ____Atom______________
+## Capitán: ________Pastrovicchio Marcos___
+## Subcapitán: _____Lampi Domenico_________
+## Integrantes:
+-Ordoñez Gabriela
+-Lopez Jeremias
+-Martinez Milena
+-Orciani Ramiro
+-Pastrovicchio Marcos
+-Lampi Domenico
+
+## REGISTRO DE ACTIVIDADES
+### Fecha: 6/10
+### Integrantes presentes:
+-Ordoñez Gabriela
+-Lopez Jeremias
+-Martinez Milena
+-Orciani Ramiro
+-Pastrovicchio Marcos
+Lampi Domenico
+
+### Objetivos de la jornada:
+-Conf. Wifi/bluetooth
+-Conf. Para que ande con teclado
+-Probar motores del robot
+
+### Actividades realizadas:
+-conectamos una fuente al robot para comprobar si funcionaba
+-copiamos el codigo del clasroom para la conexion wifi
+
+### Problemas encontrados:
+-mala conexion de los pines
+-Errores con las computadoras al poer el codigo de los motores
+
+### Soluciones implementadas o propuestas:
+-se reiniciaron las computadoras y se volvio a copiar el codigo de movimiento del robot lo cual logro hacer que funciinara
+
+### Pruebas realizadas:
+-Se testearon los motores del robot
+
+### Resultados obtenidos:
+-los motores funcionan correctamente
+
+### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+
+### Tareas pendientes:
+-soldar los cables
+-Probar la conexion a internet y al teclado
+
+### APORTES INDIVIDUALES
+Integrante: ____Pastrovicchio Marcos___________________
+
+Tarea realizada:Realizo y corrigio los problemas del codigo de la conexion wifi y al teclado
+
+Integrante: ____Lampi Domenico________________________
+
+Tarea realizada:Realizo junto con ordoñez el codigo para el funcionamiento de los motores, tambien busco un codigo de conexion wifi y teclado con claude junto con Marian y ayudo con la prueba de los motores
+
+Integrante: ___Ordoñez Gabriela_________________________
+
+Tarea realizada:Conecto los cables y aporto para probar el robot 
+
+Integrante: ___Lopez Jeremias_________________________
+
+Tarea realizada:Ayudo a Ordoñez
+
+Integrante: ___Martinez Milena_________________________
+
+Tarea realizada:Realizo el codigo para la conexion de wifi y teclado.
+
+Integrante: ___Orciani Ramiro_________________________
+
+Tarea realizada:Ayudo a Ordoñez con los cables 

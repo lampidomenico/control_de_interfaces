@@ -142,8 +142,9 @@ int main() {
     } else {
         printf("Connected.\n");
         uint8_t *ip_address = (uint8_t*)&(cyw43_state.netif[0].ip_addr.addr);
-        printf("IP address %d.%d.%d.%d\n");
-        }
+        printf("IP address %d.%d.%d.%d\n", ip_address[0], ip_address[1], ip_address[2], ip_address[3]);
+    }
+
     // Configurar Servidor TCP en puerto 80
     struct tcp_pcb *pcb = tcp_new();
     if (!pcb) return 1;
@@ -157,6 +158,9 @@ int main() {
     // Bucle principal seguro
     while (true) {
         cyw43_arch_poll(); // Mantiene vivo el stack de red
+        uint8_t *ip_address = (uint8_t*)&(cyw43_state.netif[0].ip_addr.addr);
+        printf("IP address %d.%d.%d.%d\n", ip_address[0], ip_address[1], ip_address[2], ip_address[3]);
+    
 
         // Procesamos los comandos fuera de las interrupciones de red usando ifs
         if (current_cmd != CMD_NONE) {
@@ -199,4 +203,4 @@ int main() {
 
     cyw43_arch_deinit();
     return 0;
-    }
+}
